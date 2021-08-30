@@ -11,3 +11,6 @@ On Windows:
 cd <DRIVE>/Users/<USER_NAME>/AppData/Roaming/npm/node_modules/gitbook-cli/node_modules/npm/node_modules/ 
 npm install graceful-fs@4.2.0 --save
 ```
+
+## View on GH Pages
+https://sv-v5.github.io/gitbook-example/
