@@ -4,6 +4,7 @@
         "theme-official",
         "-lunr",
         "-fontsettings",
+        "-sharing",
         "-search"
     ],
     "github_url": "https://github.com/sv-v5/gitbook-example"
