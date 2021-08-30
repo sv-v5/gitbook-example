@@ -1,0 +1,10 @@
+{
+    "title": "Gitbook",
+    "plugins": [
+        "theme-official",
+        "-lunr",
+        "-fontsettings",
+        "-search"
+    ],
+    "github_url": "https://github.com/sv-v5/gitbook-example"
+}
