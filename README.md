@@ -13,4 +13,5 @@ npm install graceful-fs@4.2.0 --save
 ```
 
 ## View on GH Pages
-https://sv-v5.github.io/gitbook-example/
+https://sv-v5.github.io/gitbook-example/  
+[![image](img/gitbook_html.jpg)](https://sv-v5.github.io/gitbook-example/)
